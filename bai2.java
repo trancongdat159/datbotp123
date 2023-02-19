@@ -1,8 +1,6 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-//GIẢI PHƯƠNG TRÌNH BẬT 2
-
 public class Bai2{
     public static void main(String[] agrs) throws Exception{
         Scanner n = new Scanner(System.in);
