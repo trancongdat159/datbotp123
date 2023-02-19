@@ -1,4 +1,4 @@
-mport java.util.Scanner;
+import java.util.Scanner;
 
 //MA TRẬN ĐỐI XỨNG
 
